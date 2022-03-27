@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4cf320f0-765a-3002-85c6-78560965b80a
 resourcetype: Document
 title: 'Homework 8: Connecting Hauntings, Traits, and Theories '
 uid: 9e479f4d-19c1-5b38-ce3e-57f5f4c17e96

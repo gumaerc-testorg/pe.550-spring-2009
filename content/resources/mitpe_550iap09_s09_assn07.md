@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4cf320f0-765a-3002-85c6-78560965b80a
 resourcetype: Document
 title: 'Homework 7: Cleaning Up Hauntings'
 uid: c237424e-157e-9fe4-508e-43c435be0a10

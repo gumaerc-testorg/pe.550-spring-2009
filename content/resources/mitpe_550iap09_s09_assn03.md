@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4cf320f0-765a-3002-85c6-78560965b80a
 resourcetype: Document
 title: 'Homework 3: Theories, Purges, and Thought Logs '
 uid: 07a6b99d-f4d6-7941-3ff4-03c59addbc14

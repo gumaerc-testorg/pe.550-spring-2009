@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 777fcc7e-5f44-7829-e4df-ae458249f8d7
 resourcetype: Document
 title: 'Lecture/Discussion 7: Cleaning Up Hauntings'
 uid: 1982279d-c0ee-36a0-5258-70d92eeeacef

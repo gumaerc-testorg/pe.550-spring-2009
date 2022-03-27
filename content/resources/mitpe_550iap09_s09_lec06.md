@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 777fcc7e-5f44-7829-e4df-ae458249f8d7
 resourcetype: Document
 title: 'Lecture/Discussion 6: Haunting Incidents'
 uid: a9129e76-4080-5f0b-ec2d-03b17bd12498

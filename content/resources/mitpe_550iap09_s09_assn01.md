@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4cf320f0-765a-3002-85c6-78560965b80a
 resourcetype: Document
 title: 'Homework 1: Promises and Consequences and Areas of Life '
 uid: 8bc2e545-8f86-10e0-023f-e1a0c1b2e4be

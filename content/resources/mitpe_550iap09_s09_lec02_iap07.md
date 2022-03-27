@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 777fcc7e-5f44-7829-e4df-ae458249f8d7
 resourcetype: Document
 title: 'Lecture/Discussion 2: How Your History Relates to Your Issues and Excuses'
 uid: b22b0550-745d-4f7e-a0c1-fe1510d0db05
