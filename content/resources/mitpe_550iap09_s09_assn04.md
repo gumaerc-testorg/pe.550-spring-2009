@@ -6,6 +6,7 @@ file: /courses/pe-550-designing-your-life-spring-2009/79cc41a78d23739f22854d9ba6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Homework 4: Excuses'
 uid: 79cc41a7-8d23-739f-2285-4d9ba621ecfa
 ---
 Homework assignment on keeping promises and analyzing excuses in your life.
-

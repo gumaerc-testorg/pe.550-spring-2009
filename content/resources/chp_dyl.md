@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Designing Your Life
 uid: 86548828-1786-a434-40b9-2668e40382b7
 ---
 A design of "Designing Your Life." (Image by MIT OpenCourseWare.)
-

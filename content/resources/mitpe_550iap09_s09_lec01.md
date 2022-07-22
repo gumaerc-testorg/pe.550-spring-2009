@@ -6,6 +6,7 @@ file: /courses/pe-550-designing-your-life-spring-2009/447cbde7199f45656b22fea183
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture/Discussion 1: Promises and Consequences, Areas of Life'
 uid: 447cbde7-199f-4565-6b22-fea1833532c0
 ---
 Lecture notes on promises and consequences, a class participation exercise, and a homework assignment.
-

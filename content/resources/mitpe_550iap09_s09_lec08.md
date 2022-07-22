@@ -6,6 +6,7 @@ file: /courses/pe-550-designing-your-life-spring-2009/ca026e56f2a21ff56c7a4ec8e5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture/Discussion 8: Connecting Hauntings, Traits, and Theories'
 uid: ca026e56-f2a2-1ff5-6c7a-4ec8e51a2cb9
 ---
 Lecture notes on the connection between hauntings, traits, and theories, a class participation exercise, and a homework assignment.
-

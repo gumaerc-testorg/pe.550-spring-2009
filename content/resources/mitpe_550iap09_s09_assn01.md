@@ -6,6 +6,7 @@ file: /courses/pe-550-designing-your-life-spring-2009/8bc2e5458f8610e0023fe1a0c1
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Homework 1: Promises and Consequences and Areas of Life '
 uid: 8bc2e545-8f86-10e0-023f-e1a0c1b2e4be
 ---
 Homework assignment on making promises with consequences and keeping them.
-

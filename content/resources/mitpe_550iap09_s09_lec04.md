@@ -6,6 +6,7 @@ file: /courses/pe-550-designing-your-life-spring-2009/ab59df6f427f24c777f2376693
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture/Discussion 4: Excuses'
 uid: ab59df6f-427f-24c7-77f2-3766935dc667
 ---
 Lecture notes on excuses for not keeping promises, a class participation exercise, and a homework assignment.
-

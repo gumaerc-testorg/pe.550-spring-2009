@@ -6,6 +6,7 @@ file: /courses/pe-550-designing-your-life-spring-2009/4339470fd42e1e0bf6e6c6cb31
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Assignment 3
 uid: 4339470f-d42e-1e0b-f6e6-c6cb31058bd4
 ---
 Assignment on designing your life, confessing yourself, and creating an action plan.
-

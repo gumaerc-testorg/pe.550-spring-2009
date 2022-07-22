@@ -7,6 +7,7 @@ file: /courses/pe-550-designing-your-life-spring-2009/edba3fa14560c8819d2e9ec4fd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Lecture/Discussion 2: Theories'
 uid: edba3fa1-4560-c881-9d2e-9ec4fd3c5878
 ---
 Lecture notes on theories you have about the way the world works, how they impact what you see as possible and impossible, and how to author new theories that better align with our dreams.
-
