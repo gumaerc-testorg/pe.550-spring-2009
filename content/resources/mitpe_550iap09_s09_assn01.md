@@ -2,7 +2,7 @@
 content_type: resource
 description: Homework assignment on making promises with consequences and keeping
   them.
-file: /courses/pe-550-designing-your-life-spring-2009/8bc2e5458f8610e0023fe1a0c1b2e4be_MITPE_550iap09_s09_assn01.pdf
+file: /ol-ocw-studio-app/courses/pe-550-designing-your-life-spring-2009/8bc2e5458f8610e0023fe1a0c1b2e4be_MITPE_550iap09_s09_assn01.pdf
 file_size: 49141
 file_type: application/pdf
 learning_resource_types:

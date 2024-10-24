@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on the connection between hauntings, traits, and theories,
   a class participation exercise, and a homework assignment.
-file: /courses/pe-550-designing-your-life-spring-2009/ca026e56f2a21ff56c7a4ec8e51a2cb9_MITPE_550iap09_s09_lec08.pdf
+file: /ol-ocw-studio-app/courses/pe-550-designing-your-life-spring-2009/ca026e56f2a21ff56c7a4ec8e51a2cb9_MITPE_550iap09_s09_lec08.pdf
 file_size: 116042
 file_type: application/pdf
 learning_resource_types:

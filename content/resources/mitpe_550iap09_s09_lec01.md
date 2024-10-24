@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on promises and consequences, a class participation exercise,
   and a homework assignment.
-file: /courses/pe-550-designing-your-life-spring-2009/447cbde7199f45656b22fea1833532c0_MITPE_550iap09_s09_lec01.pdf
+file: /ol-ocw-studio-app/courses/pe-550-designing-your-life-spring-2009/447cbde7199f45656b22fea1833532c0_MITPE_550iap09_s09_lec01.pdf
 file_size: 101367
 file_type: application/pdf
 learning_resource_types:
