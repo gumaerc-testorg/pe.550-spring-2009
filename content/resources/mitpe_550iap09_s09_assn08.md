@@ -2,7 +2,7 @@
 content_type: resource
 description: Homwork assignment on healing haunting incidents and reflecting on the
   results of action
-file: /courses/pe-550-designing-your-life-spring-2009/9e479f4d19c15b38ce3e57f5f4c17e96_MITPE_550iap09_s09_assn08.pdf
+file: /ol-ocw-studio-app/courses/pe-550-designing-your-life-spring-2009/9e479f4d19c15b38ce3e57f5f4c17e96_MITPE_550iap09_s09_assn08.pdf
 file_size: 50523
 file_type: application/pdf
 learning_resource_types:
