@@ -2,7 +2,7 @@
 content_type: resource
 description: Homework assignment on identifying parent traits and understanding and
   reflecting on your parent traits.
-file: /ol-ocw-studio-app/courses/pe-550-designing-your-life-spring-2009/6a0d67780477a99451feda0a08cab7ff_MITPE_550iap09_s09_assn05.pdf
+file: /courses/pe-550-designing-your-life-spring-2009/6a0d67780477a99451feda0a08cab7ff_MITPE_550iap09_s09_assn05.pdf
 file_size: 50851
 file_type: application/pdf
 learning_resource_types:

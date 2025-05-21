@@ -2,7 +2,7 @@
 content_type: resource
 description: Assignment on designing your life, confessing yourself, and creating
   an action plan.
-file: /ol-ocw-studio-app/courses/pe-550-designing-your-life-spring-2009/4339470fd42e1e0bf6e6c6cb31058bd4_MITPE_550iap09_s09_assn03_iap07.pdf
+file: /courses/pe-550-designing-your-life-spring-2009/4339470fd42e1e0bf6e6c6cb31058bd4_MITPE_550iap09_s09_assn03_iap07.pdf
 file_size: 81297
 file_type: application/pdf
 learning_resource_types:
