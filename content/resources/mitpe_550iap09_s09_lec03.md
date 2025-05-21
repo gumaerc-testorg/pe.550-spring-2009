@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on theories, purges, and thought logs, a class participation
   exercise, and a homework assignment.
-file: /ol-ocw-studio-app/courses/pe-550-designing-your-life-spring-2009/49874f6ec01d74595739b61792e9a674_MITPE_550iap09_s09_lec03.pdf
+file: /courses/pe-550-designing-your-life-spring-2009/49874f6ec01d74595739b61792e9a674_MITPE_550iap09_s09_lec03.pdf
 file_size: 97788
 file_type: application/pdf
 learning_resource_types:

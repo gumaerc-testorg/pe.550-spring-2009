@@ -2,7 +2,7 @@
 content_type: resource
 description: "Homework assignment on keeping promises, theories, purges, and thought\
   \ logs \r\n"
-file: /ol-ocw-studio-app/courses/pe-550-designing-your-life-spring-2009/07a6b99df4d679413ff403c59addbc14_MITPE_550iap09_s09_assn03.pdf
+file: /courses/pe-550-designing-your-life-spring-2009/07a6b99df4d679413ff403c59addbc14_MITPE_550iap09_s09_assn03.pdf
 file_size: 51193
 file_type: application/pdf
 learning_resource_types:
