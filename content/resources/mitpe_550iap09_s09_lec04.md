@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on excuses for not keeping promises, a class participation
   exercise, and a homework assignment.
-file: /ol-ocw-studio-app/courses/pe-550-designing-your-life-spring-2009/ab59df6f427f24c777f23766935dc667_MITPE_550iap09_s09_lec04.pdf
+file: /courses/pe-550-designing-your-life-spring-2009/ab59df6f427f24c777f23766935dc667_MITPE_550iap09_s09_lec04.pdf
 file_size: 23747
 file_type: application/pdf
 learning_resource_types:

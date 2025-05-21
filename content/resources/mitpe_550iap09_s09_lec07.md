@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on cleaning up after haunting incidents, a class participation
   exercise, and a homework assignment.
-file: /ol-ocw-studio-app/courses/pe-550-designing-your-life-spring-2009/1982279dc0ee36a0525870d92eeeacef_MITPE_550iap09_s09_lec07.pdf
+file: /courses/pe-550-designing-your-life-spring-2009/1982279dc0ee36a0525870d92eeeacef_MITPE_550iap09_s09_lec07.pdf
 file_size: 101710
 file_type: application/pdf
 learning_resource_types:

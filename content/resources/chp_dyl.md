@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A design of "Designing Your Life." (Image by MIT OpenCourseWare.)
-file: /ol-ocw-studio-app/courses/pe-550-designing-your-life-spring-2009/865488281786a43440b92668e40382b7_chp_dyl.jpg
+file: /courses/pe-550-designing-your-life-spring-2009/865488281786a43440b92668e40382b7_chp_dyl.jpg
 file_size: 22855
 file_type: image/jpeg
 image_metadata:
