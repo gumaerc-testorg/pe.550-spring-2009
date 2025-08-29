@@ -2,7 +2,7 @@
 content_type: resource
 description: Assignment to address and rate a variety of areas of your life. This
   is a mandatory assignment, and a condition for entry into the course.
-file: /courses/pe-550-designing-your-life-spring-2009/55a7b33dda5f568a9518a91bbfb9dbb0_MITPE_550iap09_s09_assn01_iap07.pdf
+file: /ol-ocw-studio-app/courses/pe-550-designing-your-life-spring-2009/55a7b33dda5f568a9518a91bbfb9dbb0_MITPE_550iap09_s09_assn01_iap07.pdf
 file_size: 124964
 file_type: application/pdf
 learning_resource_types:

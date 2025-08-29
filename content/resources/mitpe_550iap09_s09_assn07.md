@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment on analyzing haunting incidents.
-file: /courses/pe-550-designing-your-life-spring-2009/c237424e157e9fe4508e43c435be0a10_MITPE_550iap09_s09_assn07.pdf
+file: /ol-ocw-studio-app/courses/pe-550-designing-your-life-spring-2009/c237424e157e9fe4508e43c435be0a10_MITPE_550iap09_s09_assn07.pdf
 file_size: 52979
 file_type: application/pdf
 learning_resource_types:
